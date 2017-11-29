@@ -6,5 +6,7 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.Owin.SelfHost" Version="3.1.0"/>
     <PackageReference Include="Microsoft.AspNet.SignalR" Version="2.2.2"/>
+    <PackageReference Include="Microsoft.AspNet.SignalR.SelfHost" Version="2.2.2"/>
+    <PackageReference Include="Microsoft.Owin.Cors" Version="3.1.0"/>
   </ItemGroup>
 </Project>

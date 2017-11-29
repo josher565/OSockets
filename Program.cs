@@ -1,5 +1,6 @@
 ﻿using System;
 
+//https://docs.microsoft.com/en-us/aspnet/signalr/overview/deployment/tutorial-signalr-self-host
 namespace OSockets
 {
     class Program
